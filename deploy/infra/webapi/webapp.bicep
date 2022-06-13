@@ -16,7 +16,7 @@ resource webApiHostingPlan 'Microsoft.Web/serverfarms@2020-06-01' = {
   location: location
   kind: 'linux'
   sku: {
-    name: 'P1v2'
+    name: 'P1v3'
   }
   properties: {
     reserved: true
