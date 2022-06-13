@@ -1,4 +1,4 @@
-AZURE_LOCATION: "northeurope"
+AZURE_LOCATION: "westus"
 RESOURCE_NAME_PREFIX: "nodewebapi"
 ENVIRONMENT_TAG: "test"
 WEBAPI_NODE_ENV: "development"
